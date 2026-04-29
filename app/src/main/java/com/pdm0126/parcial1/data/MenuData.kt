@@ -1,4 +1,4 @@
-package com.pdm0126.parcial1
+package com.pdm0126.parcial1.data
 
 val pupusaImg =
   "https://comedera.com/wp-content/uploads/sites/9/2023/05/Pupusas-de-quesoshutterstock_1803502444.jpg"

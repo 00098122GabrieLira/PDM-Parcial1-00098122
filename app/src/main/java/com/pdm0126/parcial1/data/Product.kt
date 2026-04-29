@@ -1,4 +1,4 @@
-package com.pdm0126.parcial1
+package com.pdm0126.parcial1.data
 
 data class Producto(
   val id: Int,
@@ -7,8 +7,3 @@ data class Producto(
   val imagenUrl: String,
   val tipo: TipoProducto
 )
-
-enum class TipoProducto {
-  PUPUSA,
-  BEBIDA
-}
